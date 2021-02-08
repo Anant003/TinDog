@@ -1,4 +1,11 @@
 
+h1 {
+    font-family: "Montserrat-Black" !Important;
+    font-size: 3rem !Important;
+    line-height: 1.5 !Important;
+    font-weight: 700 !Important;
+}
+
 #title {
     background-color: #ff4c68;
 }
