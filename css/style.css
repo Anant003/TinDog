@@ -1,11 +1,17 @@
 
-h1 {
-    font-family: "Montserrat-Black" !Important;
-    font-size: 3rem !Important;
-    line-height: 1.5 !Important;
-    font-weight: 700 !Important;
+
+body h1 {
+    font-family: "Montserrat-Black" !important;
+    font-size: 3rem !important;
+    line-height: 1.5 !important;
+    font-weight: 700 !important;
+    color: #ffffff;
 }
 
 #title {
     background-color: #ff4c68;
+}
+
+div.container-fluid {
+    padding: 3% 15% !Important;
 }
